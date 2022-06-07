@@ -135,12 +135,12 @@ h3 {
 }
 
 .column_viri {
-	width: 48%;
-	padding: 10px;
-	padding-left: 43px;
+	width: 45%;
+	padding: 20px;
 }
 
-.column_viri p {
+.zamik {
+	padding-left: 43px;
 	text-indent: -3em;
 }
 
