@@ -135,9 +135,15 @@ h3 {
 }
 
 .column_viri {
-	width: 50%;
+	width: 48%;
 	padding: 10px;
+	padding-left: 43px;
 }
+
+.column_viri p {
+	text-indent: -3em;
+}
+
 /* za slike v column: na sredini, velikost glede na okno, največja širina 630px */
 .column img{
 	align-items: center;
