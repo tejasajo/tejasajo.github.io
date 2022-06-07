@@ -173,6 +173,7 @@ h3 {
 /* stil linkov pri zvrsteh */
 .linki a {
 	color: #10403B;
+	text-decoration: underline;
 }
 
 .linki a:hover {
@@ -183,7 +184,6 @@ h3 {
 /* stil linkov v virih */
 .column_viri a {
 	color: #10403B;
-	text-decoration: underline;
 }
 
 .column_viri a:hover {
