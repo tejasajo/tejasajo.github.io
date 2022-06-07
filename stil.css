@@ -183,6 +183,7 @@ h3 {
 /* stil linkov v virih */
 .column_viri a {
 	color: #10403B;
+	text-decoration: underline;
 }
 
 .column_viri a:hover {
