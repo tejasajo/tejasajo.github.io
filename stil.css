@@ -173,7 +173,7 @@ h3 {
 /* stil linkov pri zvrsteh */
 .linki a {
 	color: #10403B;
-	text-decoration: underline;
+    text-decoration: underline;
 }
 
 .linki a:hover {
